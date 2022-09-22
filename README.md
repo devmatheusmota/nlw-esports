@@ -6,7 +6,9 @@
 
 ## Web
 
-- [React](https://pt-br.reactjs.org/)
+<!-- - [React](https://pt-br.reactjs.org/) -->
+
+- <a href='https://pt-br.reactjs.org/' target='blank'>ReactJS</a>
 - [Typescript](https://www.typescriptlang.org/)
 - [Vite](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
