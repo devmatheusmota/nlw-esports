@@ -8,7 +8,7 @@
 
 <!-- - [React](https://pt-br.reactjs.org/) -->
 
-- <a href='https://pt-br.reactjs.org/' target='_blank'>ReactJS</a>
+- [ReactJS](https://pt-br.reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Vite](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
