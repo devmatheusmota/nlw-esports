@@ -7,7 +7,7 @@ generator client {
 
 datasource db {
   provider = "sqlite"
-  url      = env("DATABASE_URL")
+  url      = "postgresql://ridupjmo:J9OZ7xefD-YsImVeWFb8-XuOdW0_vxky@babar.db.elephantsql.com/ridupjmo"
 }
 
 model Game {
